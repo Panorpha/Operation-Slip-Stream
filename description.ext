@@ -1,0 +1,20 @@
+/*
+	Author: Panorpha
+	Last Modified: 2021.08.15 14.48
+	Email: Panorpha91@gmail.com
+
+	Notes:
+
+	Description:
+
+	To Do:
+
+*/
+
+respawn = "BASE";
+disabledAI = 1;
+respawnOnStart = -1;
+
+author= "Panorpha";
+onLoadName = "Operation Slip Stream";
+onLoadMission = "Find and destroy insergent weapon caches throughout Lythium to cripple hostile supply lines.";

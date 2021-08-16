@@ -1,0 +1,19 @@
+/*
+	Author: Panorpha
+	Last Modified: 2021.08.16 18.04
+	Email: Panorpha91@gmail.com
+
+	Notes:
+
+	Description: Called on player respawn.
+
+	To Do:
+
+*/
+
+32 hours ago, Taliban forces have seized the towns of Anyakar, Kamir and Zarath having recruited the civilian population to join their cause and execute those who protest their rise in power. We believe that this step up in aggression is due to an increase of NATO patrols within the Lythium district. We also suspect that these actions are apart of a plan to gain enough support through recruitment to assault our FOBs and Air Base front on.
+Your objective is to clear these three towns Within these towns from Taliban forces and destroy a total of 5 weapon caches that we suspect are spread throughout these towns. Additionally to the North West side of Zarath, retro fitted utes with ZSU23s and SPG9s have been spotted within a mortar base which may pose a threat. Whilst these assets are not directly apart of your tasking, if given the opportunity you are to destroy these assets.
+As a note of caution, we believe that there is still a strong civilian presence within these towns who which to remain neutral on the matter, thus ensure to acquire a PID on targets prior to engaging.
+Finally, Heron will provide transport for all other callsigns Chinook.
+
+Any questions?
