@@ -7,4 +7,4 @@ This mission is designed for "MilSim" Co-Operative game play. Loadouts and roles
 Many thanks and enjoy,
 Panorpha
 
-Copyright © 2018-2020 Panorpha. All rights reserved.
+Copyright © 2018-2021 Panorpha. All rights reserved.
